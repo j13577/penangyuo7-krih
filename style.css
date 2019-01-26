@@ -1,0 +1,19 @@
+html,body{
+  background-color:lightyellow;
+}
+h1{
+  background-color:lightblue;
+  text-align:center;
+}
+h2{
+  color:gold;
+  text-align:right
+}
+h3{
+  color:green;
+  text-align:center;
+}
+p{
+  color:red;
+  text-align:center;
+}
